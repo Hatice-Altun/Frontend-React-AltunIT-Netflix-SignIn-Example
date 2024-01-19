@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# AltunIT.nl | Netflix SignUp Page 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Build with
+* [Create React App](https://github.com/facebook/create-react-app).
+
+## Final Result
+
+<img alt="Screenshot eindresultaat" src="src/assets/screenshot.png"/>
 
 ## Available Scripts
 
