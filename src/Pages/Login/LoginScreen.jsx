@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import netflixLogo from "../assets/netflix-logo.png";
-import SignupScreen from "./SignupScreen";
+import netflixLogo from "../../assets/netflix-logo.png";
+import SignupScreen from "../SignUp/SignupScreen";
 import "./LoginScreen.css";
 
 

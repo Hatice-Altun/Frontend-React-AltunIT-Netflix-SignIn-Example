@@ -1,5 +1,5 @@
 import React from "react";
-import LoginScreen from "./components/LoginScreen";
+import LoginScreen from "./Pages/Login/LoginScreen";
 import "./App.css";
 
 function App() {
